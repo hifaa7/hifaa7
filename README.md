@@ -22,8 +22,6 @@
 ### 🛠️ Tech Stack
 **Languages I Use:**
 <img src="https://img.shields.io/badge/-Python-437CAC?logo=python&logoColor=white&style=flat">
-<img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">
-<img src="https://img.shields.io/badge/-CSS3-2275B2?logo=CSS3&logoColor=white&style=flat">
 
 **Libraries & Frameworks:**
 <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat">
@@ -35,7 +33,6 @@
 
 **Tools & Platforms:**
 <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=flat">
-<img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat">
 <img src="https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white&style=flat">
 <img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=flat">
 <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat">
